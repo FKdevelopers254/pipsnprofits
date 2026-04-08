@@ -1,0 +1,31 @@
+{
+  "accounts": {
+    "live": {
+      "login": 111111,
+      "password": "DUMMY_LIVE_PASS",
+      "server": "Dummy-Live-Server"
+    },
+    "demo": [
+      {
+        "login": 5048582508,
+        "password": "_yWgZlI1",
+        "server": "MetaQuotes-Demo"
+      }
+    ]
+  },
+  "mt5": {
+    "path": "C:/Program Files/MetaTrader 5/terminal64.exe"
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 5100
+  },
+  "ws": {
+    "interval_seconds": 5
+  },
+  "log_level": "INFO",
+  "auth": {
+    "enabled": false,
+    "api_keys": []
+  }
+}

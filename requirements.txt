@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+pydantic
+MetaTrader5
+python-dotenv
+pytest
+httpx
+numpy
+matplotlib
+tzdata
+pandas
+aiohttp
+
+# Reinforcement Learning dependencies
+torch
+torchvision
+gymnasium
+stable-baselines3
+scikit-learn
+scipy
+tqdm
+rich
+structlog
+sqlalchemy
